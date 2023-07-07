@@ -1,8 +1,7 @@
-# SafeEscape
+# FTW
 
 ## Project Team Members
 - Cody Thompkins
--
 
 ## Project Description
 FTW is a web application that allows users to create and share their own custom workouts. Users can create an account, log in, and create their own workouts. Users can also view other users' workouts and add them to their own list of workouts. Users can also edit and delete their own workouts. Users can also view their own profile page, which displays their own workouts. Users can also view other users' profile pages, which displays their workouts. Users can also view a list of all workouts created by all users. Users can also view a list of all users. Users can also view a list of all workouts created by a specific user. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts. Users can also view a list of all workouts that a specific user has added to their own list of workouts.
